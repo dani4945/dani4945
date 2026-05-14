@@ -20,16 +20,16 @@
 ## 🧠 About Me
 
 ```python
-## 👩‍💻 About Me
+👩‍💻 About Me
 
-- 🔭 Currently working on **end-to-end Power BI dashboards with DAX time intelligence (MoM, YoY, Rolling Averages)**
-- 👯 Looking to collaborate on **data analytics projects involving SQL, Power BI, or Python**
-- 🌱 Currently learning **Advanced DAX, MySQL query optimization, and Python for data automation**
-- 💬 Ask me about **Power BI dashboards, DAX measures, SQL data cleaning, Excel analytics**
-- 🎓 Graduated from **Hindustan Institute of Technology & Science, Chennai (2025)**
-- 📫 Reach me at **your@email.com**
-- 📍 Based in **Chennai, Tamil Nadu**
-- ⚡ Fun fact **Built a Power BI dashboard analyzing $367M+ in car sales — just for interview prep!**
+- 🔭 Currently working on end-to-end Power BI dashboards with DAX time intelligence (MoM, YoY, Rolling Averages)
+- 👯 Looking to collaborate on data analytics projects involving SQL, Power BI, or Python
+- 🌱 Currently learning Advanced DAX, MySQL query optimization, and Python for data automation
+- 💬 Ask me about Power BI dashboards, DAX measures, SQL data cleaning, Excel analytics
+- 🎓 Graduated from Hindustan Institute of Technology & Science, Chennai (2025)
+- 📫 Reach me at ddani4945@gmail.com
+- 📍 Based in Chennai, Tamil Nadu
+- ⚡ Fun fact -- Built a Power BI dashboard analyzing $367M+ in car sales — just for interview prep!
 ```
 
 ---
