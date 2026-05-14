@@ -28,7 +28,6 @@
 - 🎓 Graduated from Hindustan Institute of Technology & Science, Chennai (2025)
 - 📫 Reach me at ddani4945@gmail.com
 - 📍 Based in Chennai, Tamil Nadu
-```
 
 ---
 
