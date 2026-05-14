@@ -45,29 +45,35 @@
 
 <div align="center">
 
-**📊 BI & Visualization**
+### 📊 Data Analysis & Querying
+![SQL](https://img.shields.io/badge/SQL-Joins%20%7C%20Subqueries%20%7C%20Window%20Functions%20%7C%20CTEs-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-VLOOKUP%20%7C%20Pivot%20Tables%20%7C%20Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### 📈 Visualization & Reporting
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards%20%7C%20DAX%20%7C%20KPI%20Tracking-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Storytelling%20%7C%20Reporting-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**🗄️ Database & Query**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**🐍 Programming & Libraries**
-
+### 🐍 Programming & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**🔧 Tools & Environment**
+### 🗄️ Database & Data Management
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data%20Cleaning%20%7C%20Transformation-00c9a7?style=for-the-badge&logoColor=white)
 
+### 🔧 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+### 💡 Business & Soft Skills
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-Problem%20Solving%20%7C%20Attention%20to%20Detail-8b5cf6?style=for-the-badge&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-Stakeholder%20%7C%20Report%20Writing%20%7C%20Leadership-0ea5e9?style=for-the-badge&logoColor=white)
+
+</div>
 
 </div>
 
@@ -120,20 +126,6 @@
         ✅ Interview-ready
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📐 E-Commerce Sales Dashboard</h3>
-      <p>Full Power BI dashboard with <strong>custom canvas background</strong> built using Python/Pillow, featuring cohort analysis, retention metrics, and 7 KPIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-      </p>
-      <p>
-        🎨 Custom background &nbsp;|&nbsp;
-        📊 Cohort analysis &nbsp;|&nbsp;
-        📈 7 KPIs
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -161,22 +153,19 @@
 | 🏛️ Institution | 📜 Credential | 📅 Year |
 |---|---|---|
 | Hindustan Institute of Technology & Science, Chennai | B.E. Computer Science Engineering | 2021 – 2025 |
-| Besant Technologies | Data Analytics Certification | 2024 |
-| LinkedIn Learning | Data Analysis & Visualization | 2024 |
+| Besant Technologies | Data Analytics Certification | 2025 |
+| LinkedIn Learning | Data Analysis & Visualization | 2025 |
 
 ---
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nuthalapati-dani-5522952b6)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddani4945@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dani4945)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nuthalapati%20Dani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuthalapati-dani-5522952b6)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ddani4945%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddani4945@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
