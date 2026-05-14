@@ -20,16 +20,16 @@
 ## 🧠 About Me
 
 ```python
-dani = {
-    "role"         : "Data Analyst (Fresher)",
-    "education"    : "B.E. CSE — Hindustan Institute of Technology & Science, Chennai (2025)",
-    "skills"       : ["Power BI", "DAX", "MySQL", "Python", "Excel", "Tableau"],
-    "currently"    : "Building end-to-end dashboards with DAX time intelligence (MoM, YoY, Rolling Avg)",
-    "learning"     : ["Advanced DAX", "MySQL query optimization", "Python for data automation"],
-    "ask_me_about" : ["Power BI dashboards", "DAX measures", "SQL data cleaning", "Excel analytics"],
-    "fun_fact"     : "Built a Power BI dashboard analyzing $367M+ in car sales — just for interview prep! 🚗",
-    "goal"         : "Land a Data Analyst / MIS Analyst role and drive data-driven decisions 🎯"
-}
+## 👩‍💻 About Me
+
+- 🔭 Currently working on **end-to-end Power BI dashboards with DAX time intelligence (MoM, YoY, Rolling Averages)**
+- 👯 Looking to collaborate on **data analytics projects involving SQL, Power BI, or Python**
+- 🌱 Currently learning **Advanced DAX, MySQL query optimization, and Python for data automation**
+- 💬 Ask me about **Power BI dashboards, DAX measures, SQL data cleaning, Excel analytics**
+- 🎓 Graduated from **Hindustan Institute of Technology & Science, Chennai (2025)**
+- 📫 Reach me at **your@email.com**
+- 📍 Based in **Chennai, Tamil Nadu**
+- ⚡ Fun fact **Built a Power BI dashboard analyzing $367M+ in car sales — just for interview prep!**
 ```
 
 ---
