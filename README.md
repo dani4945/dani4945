@@ -8,27 +8,36 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dani4945&label=Profile%20Views&color=00c9a7&style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Data%20Analyst%20%7C%20Junior%20Analyst-00c9a7?style=for-the-badge&logoColor=white)
-![Level](https://img.shields.io/badge/🎯%20Looking%20For-Fresher%20%7C%20Junior%20Analyst%20Roles-0ea5e9?style=for-the-badge&logoColor=white)
-![Location](https://img.shields.io/badge/📍%20Location-Chennai%2C%20Tamil%20Nadu-8b5cf6?style=for-the-badge&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=dani4945&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+&nbsp;
+![Internship](https://img.shields.io/badge/🟢%20Seeking-Data%20Analyst%20Internship-00c9a7?style=for-the-badge&logoColor=white)
+&nbsp;
+![Junior Roles](https://img.shields.io/badge/💼%20Open%20For-Junior%20Analyst%20Roles-0ea5e9?style=for-the-badge&logoColor=white)
+&nbsp;
+![Location](https://img.shields.io/badge/📍%20Chennai-Tamil%20Nadu%2C%20India-8b5cf6?style=for-the-badge&logoColor=white)
 
 </div>
 
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-👩‍💻 About Me
+🔭 Currently working on **end-to-end Power BI dashboards with DAX time intelligence (MoM, YoY, Rolling Averages)**
 
-- 🔭 Currently working on end-to-end Power BI dashboards with DAX time intelligence (MoM, YoY, Rolling Averages)
-- 👯 Looking to collaborate on data analytics projects involving SQL, Power BI, or Python
-- 🌱 Currently learning Advanced DAX, MySQL query optimization, and Python for data automation
-- 💬 Ask me about Power BI dashboards, DAX measures, SQL data cleaning, Excel analytics
-- 🎓 Graduated from Hindustan Institute of Technology & Science, Chennai (2025)
-- 📫 Reach me at ddani4945@gmail.com
-- 📍 Based in Chennai, Tamil Nadu
+👯 Looking to collaborate on **data analytics projects involving SQL, Power BI, or Python**
+
+🌱 Currently learning **Advanced DAX, MySQL query optimization, and Python for data automation**
+
+💬 Ask me about **Power BI dashboards, DAX measures, SQL data cleaning, Excel analytics**
+
+🎓 Graduated from **Hindustan Institute of Technology & Science, Chennai (2025)**
+
+📫 Reach me at **ddani4945@gmail.com**
+
+📍 Based in **Chennai, Tamil Nadu**
+
+⚡ Fun fact — **Built a Power BI dashboard analyzing $367M+ in car sales — just for interview prep!**
 
 ---
 
