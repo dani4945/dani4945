@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00c9a7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=dani4945&label=Profile+Views&color=00c9a7&style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20MIS%20Analyst-00c9a7?style=flat-square&logo=googlemeet&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Chennai,%20Tamil%20Nadu-0ea5e9?style=flat-square)
 
@@ -135,16 +135,16 @@ dani = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=0ea5e9&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9a7&fire=0ea5e9&currStreakLabel=00c9a7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dani4945&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=0ea5e9&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dani4945&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9a7&fire=0ea5e9&currStreakLabel=00c9a7" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&text_color=c9d1d9&langs_count=6" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani4945&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&text_color=c9d1d9&langs_count=6" width="40%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00c9a7&line=0ea5e9&point=ffffff&hide_border=true" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dani4945&theme=tokyo-night&bg_color=0d1117&color=00c9a7&line=0ea5e9&point=ffffff&hide_border=true" width="96%" />
 </div>
 
 ---
@@ -163,9 +163,9 @@ dani = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nuthalapati-dani-5522952b6)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddani4945@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dani4945)
 
 </div>
 
