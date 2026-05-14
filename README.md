@@ -6,12 +6,15 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dani4945&label=Profile+Views&color=00c9a7&style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Junior%20Analyst-00c9a7?style=flat-square&logo=googlemeet&logoColor=white)
-![Role](https://img.shields.io/badge/Looking%20For-Fresher%20%7C%20Entry%20Level%20Roles-0ea5e9?style=flat-square&logo=target&logoColor=white)
-![Location](https://img.shields.io/badge/📍%20Chennai-Tamil%20Nadu%2C%20India-blueviolet?style=flat-square)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dani4945&label=Profile%20Views&color=00c9a7&style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Data%20Analyst%20%7C%20MIS%20Analyst-00c9a7?style=for-the-badge&logoColor=white)
+![Level](https://img.shields.io/badge/🎯%20Looking%20For-Fresher%20%7C%20Junior%20Analyst%20Roles-0ea5e9?style=for-the-badge&logoColor=white)
+![Location](https://img.shields.io/badge/📍%20Location-Chennai%2C%20Tamil%20Nadu-8b5cf6?style=for-the-badge&logoColor=white)
 
 </div>
+
 
 ---
 
