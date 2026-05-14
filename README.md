@@ -79,12 +79,21 @@
 
 ---
 
+/img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      </p>
+      <p>
+        📦 <strong>25,076</strong> records &nbsp;|&nbsp;
+
+</table>
+
+---
 ## 📊 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Car Sales Dashboard</h3>
+      <h3>🚗 Car Sales Dashboard &nbsp;<a href="https://github.com/dani4945/CAR-SALES-DASHBOARD"><img src="https://img.shields.io/badge/View-Repository-00c9a7?style=flat-square&logo=github&logoColor=white"/></a></h3>
       <p>End-to-end <strong>Power BI dashboard</strong> tracking dealership sales performance with MoM, YoY, and rolling average trends using advanced DAX time intelligence measures.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -98,7 +107,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍫 Chocolate Sales Analysis</h3>
+      <h3>🍫 Chocolate Sales Analysis &nbsp;<a href="https://github.com/dani4945/CHOCOLATE-SALES-DASHBOARD"><img src="https://img.shields.io/badge/View-Repository-00c9a7?style=flat-square&logo=github&logoColor=white"/></a></h3>
       <p>Analyzed sales across 6 global markets using Python and Excel. Identified <strong>Canada's underperformance as a coverage gap</strong>, not a demand issue — a key business insight.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -114,7 +123,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧹 SQL Data Cleaning Pipeline</h3>
+      <h3>🧹 SQL Data Cleaning Pipeline &nbsp;<img src="https://img.shields.io/badge/Coming-Soon-888888?style=flat-square&logoColor=white"/></h3>
       <p>Built a <strong>7-step standardized cleaning pipeline</strong> in MySQL — handles nulls, duplicates, inconsistent formatting, data type mismatches, and whitespace issues.</p>
       <p>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -123,16 +132,11 @@
       <p>
         🔧 <strong>7</strong> clean steps &nbsp;|&nbsp;
         🗑️ <strong>0</strong> duplicates left &nbsp;|&nbsp;
-        ✅ Interview-ready
+        ✅ Production-ready
       </p>
     </td>
   </tr>
 </table>
-
----
-
-
-
 ---
 
 ## 🎓 Education & Certifications
