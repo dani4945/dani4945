@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0ea5e9&height=200&section=header&text=Hi%20there,%20I'm%20Dani%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20·%20SQL%20·%20Python%20·%20Excel&descAlignY=58&descSize=18&descColor=d1faf3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0ea5e9&height=200&section=header&text=Hi%20there,%20I'm%20Dani%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Python%20%C2%B7%20Excel&descAlignY=58&descSize=18&descColor=ffffff" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Decisions+📊;Power+BI+%7C+DAX+%7C+SQL+%7C+Python+%7C+Excel;23%2C906+Car+Sales+Records+Analyzed+🚗;%24508M%2B+Revenue+Tracked+Across+Projects+💰;Open+to+Data+Analyst+%26+MIS+Analyst+Roles+🎯" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Business+Decisions;Power+BI+%7C+DAX+%7C+SQL+%7C+Python+%7C+Excel;Open+to+Data+Analyst+%26+MIS+Analyst+Roles" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=dani4945&label=Profile+Views&color=00c9a7&style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20MIS%20Analyst-00c9a7?style=flat-square&logo=googlemeet&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Chennai,%20Tamil%20Nadu-0ea5e9?style=flat-square)
