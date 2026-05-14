@@ -19,7 +19,6 @@
 
 ## 🧠 About Me
 
-```python
 👩‍💻 About Me
 
 - 🔭 Currently working on end-to-end Power BI dashboards with DAX time intelligence (MoM, YoY, Rolling Averages)
