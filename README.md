@@ -7,8 +7,9 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dani4945&label=Profile+Views&color=00c9a7&style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20MIS%20Analyst-00c9a7?style=flat-square&logo=googlemeet&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Chennai,%20Tamil%20Nadu-0ea5e9?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Junior%20Analyst-00c9a7?style=flat-square&logo=googlemeet&logoColor=white)
+![Role](https://img.shields.io/badge/Looking%20For-Fresher%20%7C%20Entry%20Level%20Roles-0ea5e9?style=flat-square&logo=target&logoColor=white)
+![Location](https://img.shields.io/badge/📍%20Chennai-Tamil%20Nadu%2C%20India-blueviolet?style=flat-square)
 
 </div>
 
