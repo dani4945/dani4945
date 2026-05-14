@@ -37,7 +37,7 @@
 
 📍 Based in **Chennai, Tamil Nadu**
 
-⚡ Fun fact — **Built a Power BI dashboard analyzing $367M+ in car sales — just for interview prep!**
+⚡ Fun fact — **Analyzed 49,000+ records and tracked $508M+ in revenue through self-built dashboards!**
 
 ---
 
